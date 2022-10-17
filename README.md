@@ -2,8 +2,6 @@
 
 This is a small React application that I build for my personal domain [finnbaumann.com](https://www.finnbaumann.com). It features a window in the style of a bash terminal with a small message.
 
-The fun part is, that the buttons in the top left corner actually work.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
