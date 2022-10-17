@@ -25,7 +25,7 @@ export const DockIcon = (props) => (
       }}
       onClick = {props.handleMinimize}
     >
-      {"<_"}
+      {">_"}
     </div>
     <div
       style={{
