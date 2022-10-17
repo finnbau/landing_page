@@ -1,6 +1,6 @@
 # Intro
 
-This is a small React applicationt that I build for my personal domain (finnbaumann.com)[https://www.finnbaumann.com]. It features a window in the style of a bash terminal with a small message.
+This is a small React applicationt that I build for my personal domain [finnbaumann.com](https://www.finnbaumann.com). It features a window in the style of a bash terminal with a small message.
 
 The fun part is, that the buttons in the top left corner actually work (I knew that somebody would try).
 
